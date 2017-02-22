@@ -1,5 +1,16 @@
-A:how to install git:
+A:How to install git:
 1.You can input git in console to check the system have existed git.
 2.If your system is Centos 7, so logging as root, using 'yum install git' command.
 3.Then system will download source, when it finishes. You type 'git' again.
 4.If you see some git introduction, it means you have installed successfully!
+
+B:Create repositories:
+1.Choose a directory when you want to save project.
+2.You can use 'pwd' to show the path.
+3.Type 'git.init', then repository will create.
+4.You can use 'ls -ah' command to show all files.
+
+C:Add a text:
+1.Use 'git add' to tell Git to push file into repository.
+2.Use 'git commit' to tell Git to commit file into repository.
+3.Use 'git commit -m ***' to add some remarks about the commit.
