@@ -1,0 +1,5 @@
+A:how to install git:
+1.You can input git in console to check the system have existed git.
+2.If your system is Centos 7, so logging as root, using 'yum install git' command.
+3.Then system will download source, when it finishes. You type 'git' again.
+4.If you see some git introduction, it means you have installed successfully!
